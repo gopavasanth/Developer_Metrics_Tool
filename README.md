@@ -1,6 +1,4 @@
-#Developer_Metrics_Tool
+## Developer_Metrics_Tool
 
-*This tool is used to track the Developers activities.
-*This takes the gerrit username as the input.
-*Fetches the users contributions reports.
- 
+*This Script tracks the Wikimedia Developer activities.
+*This takes the wikimedia gerrit usernames and fetches the users contributions report.
